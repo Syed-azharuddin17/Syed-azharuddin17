@@ -16,10 +16,13 @@ Solve complex problems with creative and efficient solutions.
 
 💡 Notable Projects:
 
-Thought Stream: A blogging platform with secure authentication and scalable architecture.
-Youtube-clone: An online streaming platform built using youtube APIs
-Premier zone: A soccer stats tracker with data scraping and real-time analytics.
-Honest News Hub: A React-based application delivering real-time global news updates.
+*Thought Stream: A blogging platform with secure authentication and scalable architecture.
+
+*Youtube-clone: An online streaming platform built using youtube APIs
+
+*Premier zone: A soccer stats tracker with data scraping and real-time analytics.
+
+*Honest News Hub: A React-based application delivering real-time global news updates.
 
 🎯 Values: Teamwork | Continuous Learning | Innovation
 
